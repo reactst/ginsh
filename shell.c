@@ -237,7 +237,7 @@ void ginsh_loop(void)
 }
 int main(int argc, char **argv)
 {
-  printf("SHELL BY ROKO DUGUM");
+  printf("\n\nSHELL BY ROKO DUGUM\n\n");
   ginsh_loop();
 
   // Perform any shutdown/cleanup.
